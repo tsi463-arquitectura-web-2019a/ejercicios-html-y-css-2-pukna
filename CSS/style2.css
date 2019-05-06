@@ -1,0 +1,18 @@
+body{
+	margin: 150px;
+	margin-top: 10px;
+	background-color:#E8E8E7; 
+}
+#block {
+	background-color: #8BCC98;
+}
+#block1{
+	background-color: #eeeeee;
+	margin: 300px;
+	margin-top:10px; 
+}
+#parrafo{
+	margin: 0px;
+	color: #8BCC98;
+	background-color: #8BCC98;
+}
